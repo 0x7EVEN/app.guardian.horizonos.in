@@ -1,2 +1,4 @@
 # app.guardian.horizonos.in
-test
+
+
+<script>alert("subdomain takeover")</script>
